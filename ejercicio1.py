@@ -1,11 +1,11 @@
-# Solicitar datos al usuario 
+#5 Solicitar datos al usuario 
 
 nombre = input("¿cual es tu nombre?")
 año_nacimiento = int(input("¿en que año naciste?"))
 
-# Calcular edad (año actual aproximado: 2035)
+# Calcular edad (año actual aproximado: 2025)
 
-año_actual = 2035
+año_actual = 2025
 edad = año_actual - año_nacimiento
 
 # Verificar mayoria de edad
